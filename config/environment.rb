@@ -1,0 +1,5 @@
+require 'nokogiri'
+require 'open-uri'
+require_relative '../lib/scraper.rb'
+require_relative '../lib/course.rb'
+require_relative '../lib/cli.rb'
